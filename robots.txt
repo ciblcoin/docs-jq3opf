@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-uorvge.vaclaimshelp.guide/sitemap.xml
